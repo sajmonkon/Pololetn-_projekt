@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\projekt miny\\miny\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{045CC462-27E6-41D9-AC8B-07A5864A2BC6}|miny.csproj|h:\\projekt miny\\miny\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CC462-27E6-41D9-AC8B-07A5864A2BC6}|miny.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CC462-27E6-41D9-AC8B-07A5864A2BC6}|miny.csproj|h:\\projekt miny\\miny\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{045CC462-27E6-41D9-AC8B-07A5864A2BC6}|miny.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CC462-27E6-41D9-AC8B-07A5864A2BC6}|miny.csproj|h:\\projekt miny\\miny\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CC462-27E6-41D9-AC8B-07A5864A2BC6}|miny.csproj|solutionrelative:window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CC462-27E6-41D9-AC8B-07A5864A2BC6}|miny.csproj|h:\\projekt miny\\miny\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{045CC462-27E6-41D9-AC8B-07A5864A2BC6}|miny.csproj|solutionrelative:window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CC462-27E6-41D9-AC8B-07A5864A2BC6}|miny.csproj|h:\\projekt miny\\miny\\start.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{045CC462-27E6-41D9-AC8B-07A5864A2BC6}|miny.csproj|solutionrelative:start.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{045CC462-27E6-41D9-AC8B-07A5864A2BC6}|miny.csproj|h:\\projekt miny\\miny\\start.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{045CC462-27E6-41D9-AC8B-07A5864A2BC6}|miny.csproj|solutionrelative:start.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "H:\\projekt miny\\miny\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "H:\\projekt miny\\miny\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAiwOkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:31:56.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "H:\\projekt miny\\miny\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "H:\\projekt miny\\miny\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T08:31:44.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Start.xaml.cs",
+              "DocumentMoniker": "H:\\projekt miny\\miny\\Start.xaml.cs",
+              "RelativeDocumentMoniker": "Start.xaml.cs",
+              "ToolTip": "H:\\projekt miny\\miny\\Start.xaml.cs",
+              "RelativeToolTip": "Start.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwCkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T08:15:24.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Start.xaml",
+              "DocumentMoniker": "H:\\projekt miny\\miny\\Start.xaml",
+              "RelativeDocumentMoniker": "Start.xaml",
+              "ToolTip": "H:\\projekt miny\\miny\\Start.xaml",
+              "RelativeToolTip": "Start.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T08:12:59.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Window1.xaml.cs",
+              "DocumentMoniker": "H:\\projekt miny\\miny\\Window1.xaml.cs",
+              "RelativeDocumentMoniker": "Window1.xaml.cs",
+              "ToolTip": "H:\\projekt miny\\miny\\Window1.xaml.cs",
+              "RelativeToolTip": "Window1.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:01:47.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Window1.xaml",
+              "DocumentMoniker": "H:\\projekt miny\\miny\\Window1.xaml",
+              "RelativeDocumentMoniker": "Window1.xaml",
+              "ToolTip": "H:\\projekt miny\\miny\\Window1.xaml",
+              "RelativeToolTip": "Window1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-25T14:01:04.55Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
